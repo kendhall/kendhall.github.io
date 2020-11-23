@@ -35,3 +35,10 @@ a{
   display: flex;
   flex-wrap: wrap;
 }
+.sections div{
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 5px;
+}
